@@ -1,0 +1,4 @@
+[Amplify]
+https://main.dk4lmyvyvc90h.amplifyapp.com/
+[Netlify]
+https://resonant-cactus-ccf8ab.netlify.app/
